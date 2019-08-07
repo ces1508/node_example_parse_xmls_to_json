@@ -1,0 +1,14 @@
+{
+  "name": "xlsxtojson",
+  "version": "1.0.0",
+  "description": "parse file xlsx to output json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ces1508 <ces1508@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async-xlsx": "0.0.7"
+  }
+}
